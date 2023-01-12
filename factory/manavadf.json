@@ -1,0 +1,9 @@
+{
+	"name": "manavadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7511f3da-7bf7-4933-9e73-af93ee19455b",
+		"tenantId": "ab52d4e5-9cc7-437a-bdda-f4239e145187"
+	}
+}
