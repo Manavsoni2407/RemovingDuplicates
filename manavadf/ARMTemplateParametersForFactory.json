@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "manavadf"
+		},
+		"ls_input1_accountKey": {
+			"value": ""
+		},
+		"ls_input1_properties_typeProperties_url": {
+			"value": "https://manavstore.dfs.core.windows.net/"
+		}
+	}
+}
